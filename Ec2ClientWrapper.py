@@ -3,7 +3,6 @@
 import os, sys, re, csv, requests, datetime, traceback, time
 from pprint import pprint
 import json
-from pprint import pprint
 import boto3
 
 
